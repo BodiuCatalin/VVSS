@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbb83643-0920-439e-9e92-af55445daaaf" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DocsNoteElevi/DiagramNoteElevi_v1.0.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DocsNoteElevi/Lab01/DiagramNoteElevi_v2.0.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DocsNoteElevi/Lab01/Lab01_ReviewReport.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DocsNoteElevi/Lab01/RequirementsNote_v2.0.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DocsNoteElevi/Lab02/Lab02_BBT_TCs_Form.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DocsNoteElevi/Lab02/Prj231_test_spec-2019-03-31.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DocsNoteElevi/Lab03/Lab03_WBT_TCs_Form.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DocsNoteElevi/Lab03/Prj231_test_spec-2019-04-15.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DocsNoteElevi/Lab04/Prj231_test_spec-2019-05-02.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DocsNoteElevi/RequirementsNote_v1.0.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProiectNoteElevi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/note/controller/NoteController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/note/main/StartApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/note/model/Corigent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/note/model/Elev.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/note/model/Medie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/note/model/Nota.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/note/repository/ClasaRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/note/repository/ClasaRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/note/repository/EleviRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/note/repository/EleviRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/note/repository/NoteRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/note/repository/NoteRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/note/utils/ClasaException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/note/utils/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/note/utils/NotaException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/note/validator/NoteValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/note/test/AddNotaBVATest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/note/test/AddNotaECPTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/note/test/BigBangIntegrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/note/test/CalculeazaMediiTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/note/test/GetCorigentECPTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/note/test/TopDownIntegrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/note/test/WBTCalculeazaMediiTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/note/controller/NoteController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/note/main/StartApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/note/model/Corigent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/note/model/Elev.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/note/model/Medie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/note/model/Nota.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/note/repository/ClasaRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/note/repository/ClasaRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/note/repository/EleviRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/note/repository/EleviRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/note/repository/NoteRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/note/repository/NoteRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/note/utils/ClasaException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/note/utils/Constants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/note/utils/NotaException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/note/validator/NoteValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/note/test/AddNotaBVATest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/note/test/AddNotaECPTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/note/test/BigBangIntegrationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/note/test/CalculeazaMediiTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/note/test/GetCorigentECPTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/note/test/TopDownIntegrationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/note/test/WBTCalculeazaMediiTest.class" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ProiectNoteElevi$WBTCalculeazaMediiTest.ic" NAME="WBTCalculeazaMediiTest Coverage Results" MODIFIED="1555304269537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="C:\projects\uni\vvss\4-ProiectNoteElevi" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-349920621">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="71" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="71" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="120791041">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="9" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1385449270">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="76" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="76" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="16" />
+          <entry key="java" value="3534" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3534" />
+          <entry key="PLAIN_TEXT" value="16" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/note/utils/ClasaException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/note/model/Elev.java" />
+        <option value="$PROJECT_DIR$/src/main/java/note/model/Corigent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/note/model/Medie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/note/repository/EleviRepositoryMock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/note/utils/Constants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/note/repository/ClasaRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/note/main/ClasaException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/note/repository/ClasaRepositoryMock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/note/repository/NoteRepositoryMock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/note/repository/EleviRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/note/repository/EleviRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/note/model/Nota.java" />
+        <option value="$PROJECT_DIR$/src/main/java/note/utils/NotaException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/note/validator/NoteValidator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/note/main/StartApp.java" />
+        <option value="$PROJECT_DIR$/src/test/java/note/test/AddNotaTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/note/test/CalculeazaMediiTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/note/repository/NoteRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/note/repository/NoteRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/test/java/note/test/AddNotaECPTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/note/test/AddNotaBVATest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/WBTCalculeazaMediiTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/note/repository/ClasaRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/note/controller/NoteController.java" />
+        <option value="$PROJECT_DIR$/src/test/java/note/test/GetCorigentiTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/note/test/IntegrationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/note/test/GetCorigentECPTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/note/test/BigBangIntegrationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/note/test/TopDownIntegrationTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProiectNoteElevi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProiectNoteElevi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProiectNoteElevi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProiectNoteElevi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProiectNoteElevi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProiectNoteElevi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProiectNoteElevi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProiectNoteElevi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProiectNoteElevi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProiectNoteElevi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="note" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProiectNoteElevi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProiectNoteElevi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="note" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProiectNoteElevi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProiectNoteElevi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="note" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProiectNoteElevi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProiectNoteElevi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="note" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProiectNoteElevi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProiectNoteElevi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="note" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProiectNoteElevi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProiectNoteElevi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="note" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProiectNoteElevi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProiectNoteElevi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="note" type="462c0819:PsiDirectoryNode" />
+              <item name="validator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProiectNoteElevi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProiectNoteElevi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProiectNoteElevi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProiectNoteElevi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProiectNoteElevi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProiectNoteElevi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProiectNoteElevi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550996120232" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in ProiectNoteElevi">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="recording" autostart="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in ProiectNoteElevi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProiectNoteElevi" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="recording" autostart="true" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopDownIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProiectNoteElevi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="note.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="recording" autostart="true" />
+      <option name="PACKAGE_NAME" value="note.test" />
+      <option name="MAIN_CLASS_NAME" value="note.test.TopDownIntegrationTest" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopDownIntegrationTest.testIntegrateA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProiectNoteElevi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="note.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="recording" autostart="true" />
+      <option name="PACKAGE_NAME" value="note.test" />
+      <option name="MAIN_CLASS_NAME" value="note.test.TopDownIntegrationTest" />
+      <option name="METHOD_NAME" value="testIntegrateA" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopDownIntegrationTest.testIntegrateAB" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProiectNoteElevi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="note.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="recording" autostart="true" />
+      <option name="PACKAGE_NAME" value="note.test" />
+      <option name="MAIN_CLASS_NAME" value="note.test.TopDownIntegrationTest" />
+      <option name="METHOD_NAME" value="testIntegrateAB" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopDownIntegrationTest.testIntegrateABC" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProiectNoteElevi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="note.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="recording" autostart="true" />
+      <option name="PACKAGE_NAME" value="note.test" />
+      <option name="MAIN_CLASS_NAME" value="note.test.TopDownIntegrationTest" />
+      <option name="METHOD_NAME" value="testIntegrateABC" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="recording" autostart="true" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="recording" autostart="true" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TopDownIntegrationTest" />
+      <item itemvalue="JUnit.All in ProiectNoteElevi" />
+      <item itemvalue="JUnit.TopDownIntegrationTest.testIntegrateA" />
+      <item itemvalue="JUnit.TopDownIntegrationTest.testIntegrateAB" />
+      <item itemvalue="JUnit.TopDownIntegrationTest.testIntegrateABC" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in ProiectNoteElevi" />
+        <item itemvalue="JUnit.TopDownIntegrationTest.testIntegrateABC" />
+        <item itemvalue="JUnit.TopDownIntegrationTest.testIntegrateAB" />
+        <item itemvalue="JUnit.TopDownIntegrationTest.testIntegrateA" />
+        <item itemvalue="JUnit.TopDownIntegrationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Cami\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbb83643-0920-439e-9e92-af55445daaaf" name="Default" comment="" />
+      <created>1519205787940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519205787940</updated>
+      <workItem from="1519205792216" duration="2194000" />
+      <workItem from="1550995758878" duration="359000" />
+      <workItem from="1550998914083" duration="56000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BigBangIntegrationTest_bigBangTest - 2019.05.01 at 23h 57m 34s.xml">
+      <configuration name="BigBangIntegrationTest.bigBangTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BigBangIntegrationTest - 2019.05.01 at 23h 57m 40s.xml">
+      <configuration name="BigBangIntegrationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TopDownIntegrationTest - 2019.05.01 at 23h 58m 33s.xml">
+      <configuration name="TopDownIntegrationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_ProiectNoteElevi - 2019.05.01 at 23h 58m 46s.xml">
+      <configuration name="All in ProiectNoteElevi" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_ProiectNoteElevi - 2019.05.01 at 23h 59m 05s.xml">
+      <configuration name="All in ProiectNoteElevi" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TopDownIntegrationTest_testIntegrateA - 2019.05.01 at 23h 59m 49s.xml">
+      <configuration name="TopDownIntegrationTest.testIntegrateA" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TopDownIntegrationTest_testIntegrateAB - 2019.05.02 at 00h 00m 39s.xml">
+      <configuration name="TopDownIntegrationTest.testIntegrateAB" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TopDownIntegrationTest_testIntegrateABC - 2019.05.02 at 00h 01m 10s.xml">
+      <configuration name="TopDownIntegrationTest.testIntegrateABC" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_ProiectNoteElevi - 2019.05.02 at 00h 01m 15s.xml">
+      <configuration name="All in ProiectNoteElevi" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_ProiectNoteElevi - 2019.05.02 at 00h 22m 06s.xml">
+      <configuration name="All in ProiectNoteElevi" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2609000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2526475" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49749058" weight="0.33934426" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40327868" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5025094" side_tool="true" weight="0.33238637" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32786885" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="JDT AST" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" visible="true" weight="0.22163388" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/note/repository/NoteRepositoryImpl.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://JAVA/note" />
+    <entry file="file://$PROJECT_DIR$/ProiectNoteElevi.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/utils/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/model/Elev.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/model/Medie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/model/Nota.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/EleviRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/utils/ClasaException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/utils/NotaException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/validator/NoteValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/NoteRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="65" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/ClasaRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/NoteRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/EleviRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/note/test/GetCorigentiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="148" column="43" selection-start-line="148" selection-start-column="43" selection-end-line="148" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/note/test/IntegrationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="156" column="47" lean-forward="true" selection-start-line="156" selection-start-column="47" selection-end-line="156" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/ClasaRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="129" column="28" lean-forward="true" selection-start-line="129" selection-start-column="28" selection-end-line="129" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/model/Corigent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/note/test/GetCorigentECPTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="29" column="3" lean-forward="true" selection-start-line="18" selection-start-column="2" selection-end-line="29" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/note/test/CalculeazaMediiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1021">
+          <caret line="75" column="14" lean-forward="true" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/main/StartApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="52" column="36" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/controller/NoteController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/note/test/AddNotaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="193" column="23" lean-forward="true" selection-start-line="193" selection-start-column="23" selection-end-line="193" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/note/test/AddNotaECPTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/note/test/AddNotaBVATest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/note/test/WBTCalculeazaMediiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/note/test/BigBangIntegrationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="68" column="25" selection-start-line="68" selection-start-column="14" selection-end-line="68" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/note/test/TopDownIntegrationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="96" column="30" selection-start-line="96" selection-start-column="14" selection-end-line="96" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ProiectNoteElevi</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

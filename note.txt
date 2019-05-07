@@ -1,0 +1,7 @@
+4;treeee;5.0
+1;istorie;3.0
+4;istorie;7.0
+3;romana;4.0
+1;istorie;3.0
+2;romana;3.0
+2;istorie;3.0
