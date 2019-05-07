@@ -120,7 +120,7 @@
       <file leaf-file-name="NoteController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/note/controller/NoteController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
+            <state relative-caret-position="697">
               <caret line="64" selection-start-line="64" selection-end-line="64" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -132,7 +132,7 @@
       <file leaf-file-name="StartApp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/note/main/StartApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
+            <state relative-caret-position="714">
               <caret line="52" column="36" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -144,7 +144,7 @@
       <file leaf-file-name="ECPTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/note/test/ECPTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
+            <state relative-caret-position="204">
               <caret line="20" column="20" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -156,7 +156,7 @@
       <file leaf-file-name="CalculeazaMediiTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/note/test/CalculeazaMediiTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-509">
+            <state relative-caret-position="255">
               <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -165,11 +165,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GetCorigentECPTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GetCorigentECPTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/note/test/GetCorigentECPTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="228">
+              <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -180,8 +180,8 @@
       <file leaf-file-name="BVATest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/note/test/BVATest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+            <state relative-caret-position="149">
+              <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -189,11 +189,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WBTCalculeazaMediiTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="103">
+              <caret line="29" column="16" lean-forward="true" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WBTCalculeazaMediiTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/note/test/WBTCalculeazaMediiTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            <state relative-caret-position="231">
+              <caret line="45" column="25" lean-forward="true" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -201,7 +213,7 @@
       <file leaf-file-name="BigBangIntegrationTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/note/test/BigBangIntegrationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="65">
+            <state relative-caret-position="918">
               <caret line="68" column="25" selection-start-line="68" selection-start-column="14" selection-end-line="68" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -213,20 +225,8 @@
       <file leaf-file-name="TopDownIntegrationTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/note/test/TopDownIntegrationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1530">
+            <state relative-caret-position="1394">
               <caret line="96" column="30" selection-start-line="96" selection-start-column="14" selection-end-line="96" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClasaRepositoryImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/ClasaRepositoryImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1989">
-              <caret line="129" column="28" selection-start-line="129" selection-start-column="28" selection-end-line="129" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -244,12 +244,11 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/note/utils/ClasaException.java" />
         <option value="$PROJECT_DIR$/src/main/java/note/model/Elev.java" />
         <option value="$PROJECT_DIR$/src/main/java/note/model/Corigent.java" />
@@ -280,6 +279,7 @@
         <option value="$PROJECT_DIR$/src/test/java/note/test/GetCorigentECPTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/note/test/BigBangIntegrationTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/note/test/TopDownIntegrationTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -311,85 +311,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="bcir2425" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bcir2425" type="462c0819:PsiDirectoryNode" />
+              <item name="VVSSnew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VVSSnew" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="bcir2425" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bcir2425" type="462c0819:PsiDirectoryNode" />
-              <item name="ProiectNoteElevi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bcir2425" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bcir2425" type="462c0819:PsiDirectoryNode" />
+              <item name="VVSSnew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VVSSnew" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bcir2425" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bcir2425" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bcir2425" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bcir2425" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bcir2425" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bcir2425" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="note" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bcir2425" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bcir2425" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="note" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bcir2425" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bcir2425" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="note" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bcir2425" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bcir2425" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bcir2425" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bcir2425" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bcir2425" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bcir2425" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -406,7 +341,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -420,7 +355,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AddNotaBVATest">
+  <component name="RunManager" selected="JUnit.BVATest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method>
@@ -608,15 +543,15 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="JUnit.BVATest" />
       <item itemvalue="JUnit.All in ProiectNoteElevi" />
       <item itemvalue="JUnit.TopDownIntegrationTest.testIntegrateABC" />
-      <item itemvalue="JUnit.AddNotaBVATest" />
       <item itemvalue="JUnit.CalculeazaMediiTest" />
       <item itemvalue="JUnit.GetCorigentECPTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AddNotaBVATest" />
+        <item itemvalue="JUnit.BVATest" />
         <item itemvalue="JUnit.GetCorigentECPTest" />
         <item itemvalue="JUnit.CalculeazaMediiTest" />
         <item itemvalue="JUnit.All in ProiectNoteElevi" />
@@ -638,13 +573,11 @@
       <workItem from="1550995758878" duration="359000" />
       <workItem from="1550998914083" duration="56000" />
       <workItem from="1557230106187" duration="856000" />
+      <workItem from="1557245754376" duration="337000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_ProiectNoteElevi - 2019.05.01 at 23h 59m 05s.xml">
-      <configuration name="All in ProiectNoteElevi" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TopDownIntegrationTest_testIntegrateA - 2019.05.01 at 23h 59m 49s.xml">
       <configuration name="TopDownIntegrationTest.testIntegrateA" configurationId="JUnit" />
     </history-entry>
@@ -672,9 +605,12 @@
     <history-entry file="BVATest - 2019.05.07 at 15h 14m 48s.xml">
       <configuration name="BVATest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BVATest - 2019.05.07 at 19h 21m 09s.xml">
+      <configuration name="BVATest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3465000" />
+    <option name="totallyTimeSpent" value="3802000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -686,15 +622,15 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5025094" side_tool="true" weight="0.33238637" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5033557" side_tool="true" weight="0.33827493" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49749058" visible="true" weight="0.33827493" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4966443" visible="true" weight="0.33827493" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24295302" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24630873" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -718,6 +654,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -731,6 +672,106 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/controller/NoteController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/main/StartApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="52" column="36" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/note/test/ECPTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/note/test/CalculeazaMediiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/note/test/GetCorigentECPTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/note/test/BVATest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/note/test/BigBangIntegrationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="68" column="25" selection-start-line="68" selection-start-column="14" selection-end-line="68" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/note/test/TopDownIntegrationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="96" column="30" selection-start-line="96" selection-start-column="14" selection-end-line="96" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/note/repository/ClasaRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1989">
+          <caret line="129" column="28" selection-start-line="129" selection-start-column="28" selection-end-line="129" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/note/test/WBTCalculeazaMediiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/note/controller/NoteController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
@@ -887,9 +928,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -930,16 +968,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/note/test/AddNotaTest.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/note/controller/NoteController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
+        <state relative-caret-position="697">
           <caret line="64" selection-start-line="64" selection-end-line="64" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -949,7 +980,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/note/main/StartApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
+        <state relative-caret-position="714">
           <caret line="52" column="36" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -959,7 +990,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/note/test/CalculeazaMediiTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-509">
+        <state relative-caret-position="255">
           <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -969,18 +1000,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/note/test/TopDownIntegrationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
+        <state relative-caret-position="1394">
           <caret line="96" column="30" selection-start-line="96" selection-start-column="14" selection-end-line="96" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/note/test/BVATest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -989,7 +1010,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/note/test/ECPTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
+        <state relative-caret-position="204">
           <caret line="20" column="20" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -999,18 +1020,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/note/test/BigBangIntegrationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
+        <state relative-caret-position="918">
           <caret line="68" column="25" selection-start-line="68" selection-start-column="14" selection-end-line="68" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/note/test/GetCorigentECPTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1019,8 +1030,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/note/test/WBTCalculeazaMediiTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        <state relative-caret-position="231">
+          <caret line="45" column="25" lean-forward="true" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="29" column="16" lean-forward="true" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/note/test/BVATest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/note/test/GetCorigentECPTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
